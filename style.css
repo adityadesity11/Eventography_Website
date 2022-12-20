@@ -1,0 +1,148 @@
+body{
+    margin: 0px;
+    padding:0px;
+  }
+  
+  #title{
+      background: black;
+      color: #fff;
+    
+    }
+    h1 {
+       /* font-family: 'Montserrat, sans-serif'; */
+       font-family: 'Montserrat-Bolder', sans-serif;
+        font-size: 3rem;
+        line-height: 1.5;
+        /* font-weight: 1000; */
+        margin-top:10px;
+        margin-bottom: 50px;
+    }
+  
+    .abc{
+      font-family: 'Montserrat, sans-serif';
+       font-size: 3.2rem;
+       line-height: 1.5;
+       font-weight: 1000;
+       margin-top:10px;
+       margin-bottom: 10px;
+    }
+    .container-fluid{
+      padding: 3% 15% 7%;
+    }
+    
+    body{
+      font-family: Montserrat;
+    }
+    
+    .navbar{
+      padding-bottom: 4.5rem;
+      position: relative;
+      right: 1rem;
+    }
+    
+    .nav-item{
+      padding: 0 18px;
+    }
+    .title-img{
+      width: 60%;
+      padding-bottom: 50px;
+      transform: rotate(25deg);
+      position: absolute;
+      right: 30%;
+    
+    }
+    /* feature section */
+    #features{
+      padding: 7% 15;
+      background-color: #fff;
+      position: relative;
+      z-index: 1;
+    
+    }
+    
+    .feature-box{
+      text-align: center;
+      padding: 5%;
+    
+    }
+    
+    h3{
+      /* font-family: "Montserrat-Bold"; */
+      font-family: 'Montserrat-Bolder', sans-serif;
+      font-weight: bold;
+    }
+    
+    p{
+      color: grey;
+    }
+    
+    .icon{
+      color: black;
+      margin-bottom: 1rem;
+    }
+    
+    
+    
+    .icons{
+      margin: 0rem 1rem;
+      width:15%;
+    }
+    .testimonial-text{
+      font-family: "Montserrat-Bold";
+      font-size: 3rem;
+      line-height: 1.5;
+    }
+    
+    
+    
+    /* pricing section */
+    
+    #testimonial{
+      padding: 50px 100px 100px 100px;  
+      text-align: center;
+      background-color: black;
+      margin-bottom: 100px;
+    }
+    .pricing-colom{
+      padding:3% 2%;
+    }
+    
+    
+    @media (max-width:1020px) {
+      .title-img{
+        position: static;
+        transform: rotate(0);
+        padding-top:10%;
+      }
+    
+      .title{
+        text-align: center;
+      }
+    }
+    
+    
+     #footer{
+       text-align: center;
+       padding: 2% 0 2% 0;
+     }
+    
+    .footer-icon{
+      margin: 0 1% 0;
+      padding-bottom: 1.5%;
+    }
+    
+    #my-contact{
+      text-align: center;
+      padding-bottom: 15%;
+      background-color: #fff;
+    }
+    
+    .contact-btn:hover{
+      background-color: #ff4c68;
+    }
+    
+    .container{
+      text-align: center;
+    }
+
+    

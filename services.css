@@ -1,0 +1,42 @@
+#title{
+    background: black ;
+    color: #fff;
+  
+  }
+
+  .container-fluid{
+    padding: 0.5% 5 0 0.5%;
+  }
+
+  .service-card{
+    margin: 3%;
+  }
+
+  .card-content{
+    padding: 10px;
+    
+  }
+
+
+  
+ #footer{  
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.3);
+   text-align: center;
+  }
+ 
+ .footer-icon{
+   margin: 0 1% 0;
+   padding-bottom: 1%;
+   color: black;
+ }
+
+ .card-complete{
+    margin-bottom: 10px;
+ }
+
+ .card-complete:hover{
+  background-color: #F7F7F7;
+  /* border: 10px solid white; */
+  padding: 10px;
+ }
+
